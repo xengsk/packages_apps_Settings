@@ -76,6 +76,7 @@ android_library {
         "androidx.navigation_navigation-fragment-ktx",
         "androidx.slice_slice-builders",
         "androidx.slice_slice-core",
+        "vendor.lineage.touch-V1-java",
         "androidx.slice_slice-view",
         "androidx.window_window-java",
         "gson",
